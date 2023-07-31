@@ -2,10 +2,10 @@
 
 ## This is Yanfeng Xiao
 
-2024 fresh graduate. 
+2024 Fresh Graduate. 
 
-Research direction: biometrics recognition.
+Master Research Direction: Biometrics Recognition.
 
-technology stack: Linux C/C++.
+Technology Stack: Linux C/C++.
 
-Job intension: Linux C/C++ server development. 
+Job Intension: Linux C/C++ Server Development. 
