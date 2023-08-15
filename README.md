@@ -8,4 +8,4 @@ Master Research Direction: Biometrics Recognition.
 
 Technology Stack: Linux C/C++.
 
-Job Intension: Linux C/C++ Server Development. 
+Job Intension: Linux C/C++ Server Development or Linux C/C++ Related. 
